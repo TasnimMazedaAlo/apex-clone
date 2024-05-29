@@ -1,0 +1,48 @@
+body{
+    max-width: 100%;
+    
+}
+.head{
+    font-size: 14px;
+    word-spacing: 5px;
+    color: white;
+    text-align: center;
+    background-color: rgb(192, 42, 42);
+    padding: 13px;
+}
+.num1{
+    position: relative;
+    padding: 30px;
+}
+.imag{
+    height: 30px;
+    width: 200px;
+    position: absolute;
+    left: 500px;
+    
+}
+.allicon{
+    position: absolute;
+    left: 1000px;
+}
+#icon1{
+    padding: 10px 20px;
+    
+}
+.head2{
+    font-size: 14px;
+    text-align: center;
+    padding: 60px;
+    font-weight: bold;
+}
+.arrive{
+    padding: 0 60px;
+}
+.saturn{
+    width: 100%;
+    height: auto;
+}
+.march{
+    width: 100%;
+    height: auto;
+}
